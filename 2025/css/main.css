@@ -1468,6 +1468,15 @@ h1.intro-header::before {
   margin-bottom: 2.4rem;
 }
 
+.home-content-left h2 {
+  font-family: "montserrat-regular", sans-serif;
+  font-size: 4.1rem;
+  letter-spacing: -.05rem;
+  line-height: 1.269;
+  color: #ffffff;
+  margin-bottom: 4rem;
+}
+
 .home-content-left h1 {
   font-family: "montserrat-regular", sans-serif;
   font-size: 5.2rem;
