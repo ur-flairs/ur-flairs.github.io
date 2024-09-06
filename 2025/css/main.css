@@ -1851,6 +1851,23 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
   overflow: hidden;
 }
 
+
+ /* Same layout for later section */
+ #other {
+  min-height: 786px;
+  background: #ffffff;
+  padding-top: 18rem;
+  overflow: hidden;
+}
+#submission {
+ min-height: 786px;
+ background: #ffffff;
+ padding-top: 18rem;
+ overflow: hidden;
+}
+/* end copied style */
+
+
 .about-intro {
   padding-bottom: 3.6rem;
   border-bottom: 1px solid rgba(0, 0, 0, 0.07);
@@ -2093,6 +2110,15 @@ html[data-useragent*='MSIE 10.0'] .home-scrolldown,
   padding-top: 15rem;
   padding-bottom: 12rem;
 }
+
+
+ /* Same layout for later section */
+#organizers {
+  background: #ebebeb;
+  padding-top: 15rem;
+  padding-bottom: 12rem;
+}
+/* end copied style */
 
 #pricing h1 {
   margin-bottom: 3.6rem;
